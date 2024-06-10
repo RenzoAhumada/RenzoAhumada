@@ -1,8 +1,29 @@
-- 👋 Hi, I’m Renzo Ahumada
-Im student computer science.
-Im DEV for JAVA, C and C++.
-I have some projects for frontend, but i dont like the frontend.
-Any help you can give in my codes or want to get something out of my projects you are welcome!!
+# 🌟 ¡Hola! Soy Renzo Ahumada
+
+## 📚 Estudiante de Ciencias de la Computación
+
+### 💻 Desarrollador en JAVA, JavaScript y React
+
+
+---
+
+# 🌟 Hi, I'm Renzo Ahumada
+
+## 📚 Computer Science Student
+
+### 💻 DEV for JAVA, JavaScript and React
+
+---
+
+### 🤝 ¡Cualquier ayuda en mis códigos es bienvenida!
+
+### 🤝 Any help you can give in my codes is welcome!
+
+---
+
+### 🎁 ¡Si quieres tomar algo de mis proyectos, adelante!
+
+### 🎁 If you want to get something out of my projects, feel free
 
 <!---
 RenzoAhumada/RenzoAhumada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
